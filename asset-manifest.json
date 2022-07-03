@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.a5313b71.css",
-    "main.js": "/React-Portfolio/static/js/main.41ff2918.js",
+    "main.css": "/React-Portfolio/static/css/main.237e5496.css",
+    "main.js": "/React-Portfolio/static/js/main.ecef39b9.js",
     "static/js/787.aeca62f9.chunk.js": "/React-Portfolio/static/js/787.aeca62f9.chunk.js",
     "static/media/Banner_image_1.jpg": "/React-Portfolio/static/media/Banner_image_1.4a19ebd846ecba07f2b3.jpg",
     "static/media/10.png": "/React-Portfolio/static/media/10.9e292c386dab444178eb.png",
@@ -20,14 +20,17 @@
     "static/media/03.png": "/React-Portfolio/static/media/03.d66feb17561efb7a38e7.png",
     "static/media/13.png": "/React-Portfolio/static/media/13.6050b25554b0e526b993.png",
     "static/media/01.png": "/React-Portfolio/static/media/01.078edcd9cb5446772b3a.png",
+    "static/media/revicons.eot": "/React-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/React-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/up.png": "/React-Portfolio/static/media/up.0885c8fe83608480cd5f.png",
+    "static/media/revicons.woff": "/React-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/React-Portfolio/index.html",
-    "main.a5313b71.css.map": "/React-Portfolio/static/css/main.a5313b71.css.map",
-    "main.41ff2918.js.map": "/React-Portfolio/static/js/main.41ff2918.js.map",
+    "main.237e5496.css.map": "/React-Portfolio/static/css/main.237e5496.css.map",
+    "main.ecef39b9.js.map": "/React-Portfolio/static/js/main.ecef39b9.js.map",
     "787.aeca62f9.chunk.js.map": "/React-Portfolio/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5313b71.css",
-    "static/js/main.41ff2918.js"
+    "static/css/main.237e5496.css",
+    "static/js/main.ecef39b9.js"
   ]
 }
